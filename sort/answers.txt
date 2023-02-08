@@ -1,0 +1,13 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It was the slowest sort speed out of the visualization / 3rd Fastest run time
+
+sort2 uses: Merge Sort
+How do you know?: It was the fastest sort speed out of the visualization / Fastest run time
+sort3 uses: Selection Sort
+How do you know?: It was the 2nd fastest sort speed out of the visualization / 2nd fastest run time
+
+
+sort1 random10000 time .315s
+sort2 random10000 time .077s
+sort3 random10000 time .185s
